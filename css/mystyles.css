@@ -1,0 +1,57 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: antiquewhite;
+    
+}
+.masthead-heading{
+    color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif !important;
+}
+.masthead-subheading{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white !important;
+}
+.notyellow{
+    color:black
+}
+.btn{
+    color: black;
+    color: antiquewhite;
+    border-color: rgb(241, 217, 185);
+    background: #000;
+}
+
+
+
+
+/*div styles*/
+.common{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: absolute;
+}
+.top{
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+}
+.middle{
+    top: 100px;
+    left: 0px;
+    bottom: 0px;
+}
+.bottom{
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    z-index: 1;
+    text-align:center;
+    background-color: blanchedalmond;
+    font-style: italic;
+
+}
+.imgcenter{
+    display: block;
+    margin: auto;
+    border: 5px solid burlywood;
+}
+
